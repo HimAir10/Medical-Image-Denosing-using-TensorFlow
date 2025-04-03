@@ -5,6 +5,6 @@ In this notebook, I've implemented the following paper https://arxiv.org/pdf/160
 
 For the Dataset use this Kaggle code-
 
-import kagglehub
-path = kagglehub.dataset_download("parthplc/medical-image-dataset")
-print("Path to dataset files:", path)
+#import kagglehub
+#path = kagglehub.dataset_download("parthplc/medical-image-dataset")
+#print("Path to dataset files:", path)
